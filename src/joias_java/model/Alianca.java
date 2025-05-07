@@ -17,5 +17,9 @@ public class Alianca extends Joias{
 		this.nomeDoParceiro = nomeDoParceiro;
 	}
 	
-	
+	@Override
+	public void visualizar() {
+		super.visualizar();
+		System.out.println("Nome do parceiro: " + this.nomeDoParceiro);
+	}
 }

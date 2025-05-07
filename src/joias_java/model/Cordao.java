@@ -17,5 +17,9 @@ public class Cordao extends Joias{
 		this.modelo = modelo;
 	}
 	
-	
+	@Override
+	public void visualizar() {
+		super.visualizar();
+		System.out.println("Modelo do cordao: " + this.modelo);
+	}
 }

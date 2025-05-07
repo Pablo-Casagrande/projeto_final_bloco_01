@@ -36,6 +36,23 @@ public abstract class Joias {
 		this.tipo = tipo;
 	}
 	
+			public void visualizar() {
+
+				String tipo = "";
+
+				switch (this.tipo) {
+				case 1 -> tipo = "Alianca";
+				case 2 -> tipo = "Cordao";
+				default -> tipo = "Inválido";
+				}
+
+				System.out.println("                                          ");
+				System.out.println("************ DADOS DO PRODUTO ************");
+				System.out.println("                                          ");
+				System.out.println("ID do Produto: " + this.id);
+				System.out.println("Nome do Cliente: " + this.nomeCliente);
+				System.out.println("Tipo do Produto: " + tipo);
+			}
 	
 	
 }
