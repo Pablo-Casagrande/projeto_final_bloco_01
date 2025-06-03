@@ -1,7 +1,7 @@
 💎 JOIAS – Sistema de E-commerce em Java
 
 Descrição
-O DIMI JOIAS é um sistema de e-commerce desenvolvido em Java, com foco na aplicação de conceitos de Programação Orientada a Objetos (POO). O projeto simula uma loja virtual de joias, permitindo operações como cadastro, listagem, busca, atualização e remoção de produtos.
+O JOIAS é um sistema de e-commerce desenvolvido em Java, com foco na aplicação de conceitos de Programação Orientada a Objetos (POO). O projeto simula uma loja virtual de joias, permitindo operações como cadastro, listagem, busca, atualização e remoção de produtos.
 
 Este projeto visa proporcionar uma base prática para compreender os princípios fundamentais da POO aplicados a um cenário realista.
 
